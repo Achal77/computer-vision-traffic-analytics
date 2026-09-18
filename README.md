@@ -1,4 +1,4 @@
-# Vision-Based Traffic & Road Scene Analytics
+# computer-vision-traffic-analytics
 
 A modular **Computer Vision** project for image processing, traffic-video analysis, object detection/tracking, optical-flow visualization, and stereo disparity estimation. The project is implemented in Python with OpenCV and exposed through a Streamlit web interface.
 
