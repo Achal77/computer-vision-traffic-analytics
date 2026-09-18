@@ -1,0 +1,9 @@
+{
+  "project": "Vision-Based Traffic & Road Scene Analytics System",
+  "course": "CSE3010 Computer Vision",
+  "student_name": "A ACHAL",
+  "registration_number": "24BAI10839",
+  "status": "core implementation complete; final integration/testing to be performed on user's machine",
+  "report": "on hold by request",
+  "demo_video": "data/sample_videos/synthetic_traffic.mp4"
+}
